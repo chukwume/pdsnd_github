@@ -5,7 +5,7 @@ This project was created on April 20th, 2020 by Chukwume Ijeh
 Explore **US Bikeshare Data**
 
 ### Description
-Describe what your project is about and what it does
+This project explores Bikeshare Data in the following **US** states: **Chicago**, **New York** and **Washington**.
 
 ### Files used
 Include the files used
