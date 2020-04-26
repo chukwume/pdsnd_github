@@ -1,8 +1,8 @@
 ### Date created
-This project was created on April 20th, 2020 by Chukwume Ijeh 
+This project was created on April 20th, 2020 by Chukwume Ijeh
 
 ### Project Title
-Replace the Project Title
+Explore **US Bikeshare Data**
 
 ### Description
 Describe what your project is about and what it does
