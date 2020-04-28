@@ -51,7 +51,7 @@ def get_filters():
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
         try:
-            day = input("\nWhich day would you like to analyze? Or type 'all' to apply no day filter. \n>")
+            day = input("\nWhich day would you like to analyze? Type 'all' to apply no day filter. \n>")
             if day.lower() in days or day == 'all':
                 break
             else:
